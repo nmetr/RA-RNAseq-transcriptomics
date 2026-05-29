@@ -1,0 +1,737 @@
+GOID: GO:0044790
+Term: suppression of viral release by host
+Ontology: BP
+Definition: A process in which a host organism stops, prevents or reduces the frequency, rate or extent of the
+    release of a virus with which it is infected, from its cells.
+Synonym: GO:1902187
+Synonym: down regulation of release of virus from host
+Synonym: down regulation of viral exit
+Synonym: down regulation of viral release
+Synonym: down regulation of viral release from host cell
+Synonym: down regulation of viral shedding
+Synonym: down-regulation of release of virus from host
+Synonym: down-regulation of viral exit
+Synonym: down-regulation of viral release
+Synonym: down-regulation of viral release from host cell
+Synonym: down-regulation of viral shedding
+Synonym: downregulation of release of virus from host
+Synonym: downregulation of viral exit
+Synonym: downregulation of viral release
+Synonym: downregulation of viral release from host cell
+Synonym: downregulation of viral shedding
+Synonym: inhibition of release of virus from host
+Synonym: inhibition of viral exit
+Synonym: inhibition of viral release
+Synonym: inhibition of viral shedding
+Synonym: negative regulation by host of viral release from host cell
+Synonym: negative regulation of release of virus from host
+Synonym: negative regulation of viral exit
+Synonym: negative regulation of viral release
+Synonym: negative regulation of viral release from host cell
+Synonym: negative regulation of viral shedding
+Synonym: inhibition of viral release from host cell
+Secondary: GO:1902187
+--------------------------------------
+GOID: GO:0019814
+Term: immunoglobulin complex
+Ontology: CC
+Definition: A protein complex that in its canonical form is composed of two identical immunoglobulin heavy chains and
+    two identical immunoglobulin light chains, held together by disulfide bonds and sometimes complexed with
+    additional proteins. An immunoglobulin complex may be embedded in the plasma membrane or present in the
+    extracellular space, in mucosal areas or other tissues, or circulating in the blood or lymph.
+Synonym: antibody
+--------------------------------------
+GOID: GO:0061659
+Term: ubiquitin-like protein ligase activity
+Ontology: MF
+Definition: Catalysis of the transfer of a ubiquitin-like protein (ULP) to a substrate protein via the reaction X-ULP
+    + S = X + S-ULP, where X is either an E2 or E3 enzyme, the X-ULP linkage is a thioester bond, and the S-ULP
+    linkage is an isopeptide bond between the C-terminal glycine of ULP and the epsilon-amino group of lysine
+    residues in the substrate.
+Synonym: small conjugating protein ligase activity
+Synonym: E3
+--------------------------------------
+GOID: GO:0050792
+Term: regulation of viral process
+Ontology: BP
+Definition: Any process that modulates the rate or extent of the viral life cycle, the set of processes by which a
+    virus reproduces and spreads among hosts.
+Synonym: regulation of viral reproduction
+--------------------------------------
+GOID: GO:0141086
+Term: negative regulation of inflammasome-mediated signaling pathway
+Ontology: BP
+Definition: NA
+Synonym: negative regulation of inflammasome-mediated signal transduction
+--------------------------------------
+GOID: GO:0048525
+Term: negative regulation of viral process
+Ontology: BP
+Definition: Any process that stops, prevents, or reduces the frequency, rate or extent of a multi-organism process in
+    which a virus is a participant.
+Synonym: down regulation of viral life cycle
+Synonym: down-regulation of viral life cycle
+Synonym: downregulation of viral life cycle
+Synonym: inhibition of viral life cycle
+Synonym: negative regulation of viral life cycle
+Synonym: negative regulation of viral reproduction
+--------------------------------------
+GOID: GO:0016755
+Term: aminoacyltransferase activity
+Ontology: MF
+Definition: Catalysis of the transfer of an amino-acyl group from one compound (donor) to another (acceptor).
+Synonym: transferase activity, transferring amino-acyl groups
+--------------------------------------
+GOID: GO:0061630
+Term: ubiquitin protein ligase activity
+Ontology: MF
+Definition: Catalysis of the transfer of ubiquitin to a substrate protein via the reaction X-ubiquitin + S = X +
+    S-ubiquitin, where X is either an E2 or E3 enzyme, the X-ubiquitin linkage is a thioester bond, and the
+    S-ubiquitin linkage is an amide bond: an isopeptide bond between the C-terminal glycine of ubiquitin and the
+    epsilon-amino group of lysine residues in the substrate or, in the linear extension of ubiquitin chains, a
+    peptide bond the between the C-terminal glycine and N-terminal methionine of ubiquitin residues.
+Synonym: GO:0090302
+Synonym: GO:0090622
+Synonym: GO:1904264
+Synonym: GO:1904822
+Synonym: protein ubiquitination activity
+Synonym: ubiquitin ligase activity
+Synonym: ER-associated E3 ligase
+Synonym: E3
+Secondary: GO:0090302
+Secondary: GO:0090622
+Secondary: GO:1904264
+Secondary: GO:1904822
+--------------------------------------
+GOID: GO:0004842
+Term: ubiquitin-protein transferase activity
+Ontology: MF
+Definition: Catalysis of the transfer of ubiquitin from one protein to another via the reaction X-Ub + Y = Y-Ub + X,
+    where both X-Ub and Y-Ub are covalent linkages.
+Synonym: GO:0004840
+Synonym: GO:0004841
+Synonym: E2
+Synonym: E3
+Synonym: ubiquitin conjugating enzyme activity
+Synonym: ubiquitin ligase activity
+Synonym: ubiquitin protein ligase activity
+Synonym: ubiquitin protein-ligase activity
+Synonym: ubiquitin-conjugating enzyme activity
+Secondary: GO:0004840
+Secondary: GO:0004841
+--------------------------------------
+GOID: GO:0019787
+Term: ubiquitin-like protein transferase activity
+Ontology: MF
+Definition: Catalysis of the transfer of a ubiquitin-like from one protein to another via the reaction X-ULP + Y =
+    Y-ULP + X, where both X-ULP and Y-ULP are covalent linkages. ULP represents a ubiquitin-like protein.
+Synonym: GO:0008639
+Synonym: GO:0008640
+Synonym: small conjugating protein transferase activity
+Synonym: E3
+Synonym: E2
+Synonym: small conjugating protein ligase activity
+Synonym: small protein conjugating enzyme activity
+Synonym: ubiquitin-like conjugating enzyme activity
+Synonym: ubiquitin-like-protein ligase activity
+Secondary: GO:0008639
+Secondary: GO:0008640
+--------------------------------------
+GOID: GO:1900226
+Term: negative regulation of NLRP3 inflammasome complex assembly
+Ontology: BP
+Definition: NA
+Synonym: down regulation of NALP3 inflammasome complex assembly
+Synonym: down regulation of NLRP3 inflammasome complex assembly
+Synonym: down-regulation of NALP3 inflammasome complex assembly
+Synonym: down-regulation of NLRP3 inflammasome complex assembly
+Synonym: downregulation of NALP3 inflammasome complex assembly
+Synonym: downregulation of NLRP3 inflammasome complex assembly
+Synonym: inhibition of NALP3 inflammasome complex assembly
+Synonym: negative regulation of NALP3 inflammasome complex assembly
+Synonym: down regulation of NLRP3 inflammasome activation
+Synonym: down-regulation of NLRP3 inflammasome activation
+Synonym: downregulation of NLRP3 inflammasome activation
+Synonym: inhibition of NLRP3 inflammasome activation
+Synonym: negative regulation of NLRP3 inflammasome activation
+Synonym: inhibition of NLRP3 inflammasome complex assembly
+--------------------------------------
+GOID: GO:0046597
+Term: host-mediated suppression of symbiont invasion
+Ontology: BP
+Definition: A process in which a host inhibits or disrupts the entry of a symbiont into a host cell.
+Synonym: blocking of symbiont entry into host cell
+Synonym: negative regulation of viral penetration into host cell
+Synonym: prevention of symbiont entry into host cell
+Synonym: negative regulation of symbiont entry into host cell
+Synonym: negative regulation of viral entry into host cell
+--------------------------------------
+GOID: GO:0032897
+Term: negative regulation of viral transcription
+Ontology: BP
+Definition: Any process that stops, prevents, or reduces the frequency, rate or extent of viral transcription.
+Synonym: down regulation of viral transcription
+Synonym: down-regulation of viral transcription
+Synonym: downregulation of viral transcription
+Synonym: inhibition of viral transcription
+--------------------------------------
+GOID: GO:0000315
+Term: organellar large ribosomal subunit
+Ontology: CC
+Definition: The larger of the two subunits of an organellar ribosome. Two sites on the ribosomal large subunit are
+    involved in translation: the aminoacyl site (A site) and peptidyl site (P site).
+--------------------------------------
+GOID: GO:0005762
+Term: mitochondrial large ribosomal subunit
+Ontology: CC
+Definition: The larger of the two subunits of a mitochondrial ribosome. Two sites on the ribosomal large subunit are
+    involved in translation: the aminoacyl site (A site) and peptidyl site (P site).
+Synonym: 39S ribosomal subunit, mitochondrial
+--------------------------------------
+GOID: GO:0140096
+Term: catalytic activity, acting on a protein
+Ontology: MF
+Definition: NA
+--------------------------------------
+GOID: GO:1903900
+Term: regulation of viral life cycle
+Ontology: BP
+Definition: NA
+Synonym: regulation of lytic viral life cycle
+Synonym: regulation of viral infectious cycle
+Synonym: regulation of viral replication
+Synonym: regulation of viral assembly, maturation, egress, and release
+--------------------------------------
+GOID: GO:0021915
+Term: neural tube development
+Ontology: BP
+Definition: The process whose specific outcome is the progression of the neural tube over time, from its formation to
+    the mature structure. The mature structure of the neural tube exists when the tube has been segmented into the
+    forebrain, midbrain, hindbrain and spinal cord regions. In addition neural crest has budded away from the
+    epithelium.
+--------------------------------------
+GOID: GO:0016740
+Term: transferase activity
+Ontology: MF
+Definition: Catalysis of the transfer of a group, e.g. a methyl group, glycosyl group, acyl group,
+    phosphorus-containing, or other groups, from one compound (generally regarded as the donor) to another compound
+    (generally regarded as the acceptor). Transferase is the systematic name for any enzyme of EC class 2.
+--------------------------------------
+GOID: GO:0000313
+Term: organellar ribosome
+Ontology: CC
+Definition: A ribosome contained within a subcellular membrane-bounded organelle.
+--------------------------------------
+GOID: GO:0005761
+Term: mitochondrial ribosome
+Ontology: CC
+Definition: A ribosome found in the mitochondrion of a eukaryotic cell; contains a characteristic set of proteins
+    distinct from those of cytosolic ribosomes.
+Synonym: 55S ribosome, mitochondrial
+--------------------------------------
+GOID: GO:1905475
+Term: regulation of protein localization to membrane
+Ontology: BP
+Definition: NA
+Synonym: regulation of protein localisation in membrane
+Synonym: regulation of protein localization in membrane
+--------------------------------------
+GOID: GO:0046794
+Term: transport of virus
+Ontology: BP
+Definition: The directed movement of a virus, or part of a virus, into, out of, or within a host cell.
+Synonym: viral transport
+Synonym: virion transport
+--------------------------------------
+GOID: GO:0075733
+Term: intracellular transport of virus
+Ontology: BP
+Definition: The directed movement of a virus, or part of a virus, within the host cell.
+Synonym: GO:0046788
+Synonym: GO:0046795
+Synonym: GO:0046796
+Synonym: egress of virus within host cell
+Synonym: intracellular transport of viral material
+Synonym: movement of virus within host cell
+Synonym: viral genome transport in host cell
+Synonym: intracellular virion transport
+Synonym: viral egress
+Secondary: GO:0046788
+Secondary: GO:0046795
+Secondary: GO:0046796
+--------------------------------------
+GOID: GO:0005840
+Term: ribosome
+Ontology: CC
+Definition: An intracellular organelle, about 200 A in diameter, consisting of RNA and protein. It is the site of
+    protein biosynthesis resulting from translation of messenger RNA (mRNA). It consists of two subunits, one large
+    and one small, each containing only protein and RNA. Both the ribosome and its subunits are characterized by
+    their sedimentation coefficients, expressed in Svedberg units (symbol: S). Hence, the prokaryotic ribosome (70S)
+    comprises a large (50S) subunit and a small (30S) subunit, while the eukaryotic ribosome (80S) comprises a large
+    (60S) subunit and a small (40S) subunit. Two sites on the ribosomal large subunit are involved in translation,
+    namely the aminoacyl site (A site) and peptidyl site (P site). Ribosomes from prokaryotes, eukaryotes,
+    mitochondria, and chloroplasts have characteristically distinct ribosomal proteins.
+Synonym: GO:0033279
+Synonym: ribosomal RNA
+Synonym: free ribosome
+Synonym: membrane bound ribosome
+Secondary: GO:0033279
+--------------------------------------
+GOID: GO:0019538
+Term: protein metabolic process
+Ontology: BP
+Definition: The chemical reactions and pathways involving a protein. Includes protein modification.
+Synonym: GO:0006411
+Synonym: GO:0044267
+Synonym: GO:0044268
+Synonym: cellular protein metabolic process
+Synonym: cellular protein metabolism
+Synonym: protein metabolic process and modification
+Synonym: protein metabolism
+Synonym: protein metabolism and modification
+Synonym: multicellular organismal protein metabolic process
+Secondary: GO:0006411
+Secondary: GO:0044267
+Secondary: GO:0044268
+--------------------------------------
+GOID: GO:0070633
+Term: transepithelial transport
+Ontology: BP
+Definition: The directed movement of a substance from one side of an epithelium to the other.
+--------------------------------------
+GOID: GO:0044391
+Term: ribosomal subunit
+Ontology: CC
+Definition: Either of the two subunits of a ribosome: the ribosomal large subunit or the ribosomal small subunit.
+--------------------------------------
+GOID: GO:0015934
+Term: large ribosomal subunit
+Ontology: CC
+Definition: The larger of the two subunits of a ribosome. Two sites on the ribosomal large subunit are involved in
+    translation, namely the aminoacyl site (A site) and peptidyl site (P site).
+Synonym: ribosomal large subunit
+--------------------------------------
+GOID: GO:1902473
+Term: regulation of protein localization to synapse
+Ontology: BP
+Definition: NA
+Synonym: regulation of protein localisation to synapse
+--------------------------------------
+GOID: GO:1901253
+Term: negative regulation of intracellular transport of viral material
+Ontology: BP
+Definition: NA
+Synonym: down regulation of egress of virus within host cell
+Synonym: down regulation of movement of virus within host cell
+Synonym: down regulation of viral egress
+Synonym: down-regulation of egress of virus within host cell
+Synonym: down-regulation of movement of virus within host cell
+Synonym: down-regulation of viral egress
+Synonym: downregulation of egress of virus within host cell
+Synonym: downregulation of movement of virus within host cell
+Synonym: downregulation of viral egress
+Synonym: inhibition of movement of virus within host cell
+Synonym: inhibition of viral egress
+Synonym: negative regulation of movement of virus within host cell
+Synonym: negative regulation of viral egress
+Synonym: negative regulation of egress of virus within host cell
+Synonym: inhibition of egress of virus within host cell
+--------------------------------------
+GOID: GO:0035014
+Term: phosphatidylinositol 3-kinase regulator activity
+Ontology: MF
+Definition: Modulates the activity of a phosphatidylinositol 3-kinase (PI3K). Regulatory subunits can link a PI3K
+    catalytic subunit to upstream signaling events and help position the catalytic subunits close to their lipid
+    substrates.
+Synonym: phosphoinositide 3-kinase regulator activity
+Synonym: PI3K regulator activity
+--------------------------------------
+GOID: GO:0070509
+Term: calcium ion import
+Ontology: BP
+Definition: The directed movement of calcium ions into a cell or organelle.
+Synonym: calcium ion uptake
+Synonym: transmembrane calcium influx
+--------------------------------------
+GOID: GO:0006508
+Term: proteolysis
+Ontology: BP
+Definition: The hydrolysis of proteins into smaller polypeptides and/or amino acids by cleavage of their peptide
+    bonds.
+Synonym: peptidolysis
+Synonym: ATP-dependent proteolysis
+--------------------------------------
+GOID: GO:0016746
+Term: acyltransferase activity
+Ontology: MF
+Definition: Catalysis of the transfer of an acyl group from one compound (donor) to another (acceptor).
+Synonym: GO:0008415
+Synonym: transferase activity, transferring acyl groups
+Secondary: GO:0008415
+--------------------------------------
+GOID: GO:0005815
+Term: microtubule organizing center
+Ontology: CC
+Definition: An intracellular structure that can catalyze gamma-tubulin-dependent microtubule nucleation and that can
+    anchor microtubules by interacting with their minus ends, plus ends or sides.
+Synonym: microtubule organising centre
+Synonym: MTOC
+--------------------------------------
+GOID: GO:0006706
+Term: steroid catabolic process
+Ontology: BP
+Definition: The chemical reactions and pathways resulting in the breakdown of steroids, compounds with a
+    1,2,cyclopentanoperhydrophenanthrene nucleus.
+Synonym: steroid breakdown
+Synonym: steroid catabolism
+Synonym: steroid degradation
+--------------------------------------
+GOID: GO:0019827
+Term: stem cell population maintenance
+Ontology: BP
+Definition: The process by which an organism or tissue maintains a population of stem cells of a single type. This
+    can be achieved by a number of mechanisms: stem cell asymmetric division maintains stem cell numbers; stem cell
+    symmetric division increases them; maintenance of a stem cell niche maintains the conditions for commitment to
+    the stem cell fate for some types of stem cell; stem cells may arise de novo from other cell types.
+Synonym: maintenance of pluripotency
+--------------------------------------
+GOID: GO:0030688
+Term: preribosome, small subunit precursor
+Ontology: CC
+Definition: A preribosomal complex consisting of 20S pre-rRNA, ribosomal proteins including late-associating small
+    subunit proteins, and associated proteins; a precursor of the eukaryotic cytoplasmic small ribosomal subunit.
+Synonym: 43S preribosome
+--------------------------------------
+GOID: GO:0000082
+Term: G1/S transition of mitotic cell cycle
+Ontology: BP
+Definition: The mitotic cell cycle transition by which a cell in G1 commits to S phase. The process begins with the
+    build up of G1 cyclin-dependent kinase (G1 CDK), resulting in the activation of transcription of G1 cyclins. The
+    process ends with the positive feedback of the G1 cyclins on the G1 CDK which commits the cell to S phase, in
+    which DNA replication is initiated.
+--------------------------------------
+GOID: GO:0034236
+Term: protein kinase A catalytic subunit binding
+Ontology: MF
+Definition: Binding to one or both of the catalytic subunits of protein kinase A.
+Synonym: PKA catalytic subunit binding
+--------------------------------------
+GOID: GO:0035331
+Term: negative regulation of hippo signaling
+Ontology: BP
+Definition: Any process that stops, prevents, or reduces the frequency, rate or extent of hippo signaling.
+Synonym: negative regulation of hippo signaling pathway
+Synonym: negative regulation of hippo signaling cascade
+Synonym: negative regulation of hippo signalling cascade
+--------------------------------------
+GOID: GO:0098727
+Term: maintenance of cell number
+Ontology: BP
+Definition: Any process by which the numbers of cells of a particular type or in a tissue are maintained.
+--------------------------------------
+GOID: GO:1904375
+Term: regulation of protein localization to cell periphery
+Ontology: BP
+Definition: NA
+--------------------------------------
+GOID: GO:0046782
+Term: regulation of viral transcription
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of the transcription of the viral genome.
+--------------------------------------
+GOID: GO:0031638
+Term: zymogen activation
+Ontology: BP
+Definition: The proteolytic processing of an inactive enzyme to an active form.
+Synonym: zymogen activation by proteolytic cleavage
+--------------------------------------
+GOID: GO:0009219
+Term: pyrimidine deoxyribonucleotide metabolic process
+Ontology: BP
+Definition: The chemical reactions and pathways involving a pyrimidine deoxynucleotide, a compound consisting of
+    nucleoside (a pyrimidine base linked to a deoxyribose sugar) esterified with a phosphate group at either the 3'
+    or 5'-hydroxyl group of the sugar.
+Synonym: pyrimidine deoxyribonucleotide metabolism
+--------------------------------------
+GOID: GO:2000045
+Term: regulation of G1/S transition of mitotic cell cycle
+Ontology: BP
+Definition: NA
+--------------------------------------
+GOID: GO:1904587
+Term: response to glycoprotein
+Ontology: BP
+Definition: NA
+Synonym: response to glycoproteins
+--------------------------------------
+GOID: GO:0097553
+Term: calcium ion transmembrane import into cytosol
+Ontology: BP
+Definition: A process in which a calcium ion is transported from one side of a membrane to the other into the cytosol
+    by means of some agent such as a transporter or pore.
+Synonym: GO:0060401
+Synonym: calcium transmembrane import into cytosol
+Synonym: cytosolic calcium ion transport
+Secondary: GO:0060401
+--------------------------------------
+GOID: GO:0003735
+Term: structural constituent of ribosome
+Ontology: MF
+Definition: The action of a molecule that contributes to the structural integrity of the ribosome.
+Synonym: GO:0003736
+Synonym: GO:0003737
+Synonym: GO:0003738
+Synonym: GO:0003739
+Synonym: GO:0003740
+Synonym: GO:0003741
+Synonym: GO:0003742
+Synonym: ribosomal RNA
+Synonym: ribosomal protein
+Secondary: GO:0003736
+Secondary: GO:0003737
+Secondary: GO:0003738
+Secondary: GO:0003739
+Secondary: GO:0003740
+Secondary: GO:0003741
+Secondary: GO:0003742
+--------------------------------------
+GOID: GO:0045071
+Term: negative regulation of viral genome replication
+Ontology: BP
+Definition: Any process that stops, prevents, or reduces the frequency, rate or extent of viral genome replication.
+Synonym: down regulation of viral genome replication
+Synonym: down-regulation of viral genome replication
+Synonym: downregulation of viral genome replication
+Synonym: inhibition of viral genome replication
+--------------------------------------
+GOID: GO:0044403
+Term: biological process involved in symbiotic interaction
+Ontology: BP
+Definition: A process carried out by gene products in an organism that enable the organism to engage in a symbiotic
+    relationship, a more or less intimate association, with another organism. The various forms of symbiosis include
+    parasitism, in which the association is disadvantageous or destructive to one of the organisms; mutualism, in
+    which the association is advantageous, or often necessary to one or both and not harmful to either; and
+    commensalism, in which one member of the association benefits while the other is not affected. However,
+    mutualism, parasitism, and commensalism are often not discrete categories of interactions and should rather be
+    perceived as a continuum of interaction ranging from parasitism to mutualism. In fact, the direction of a
+    symbiotic interaction can change during the lifetime of the symbionts due to developmental changes as well as
+    changes in the biotic/abiotic environment in which the interaction occurs. Microscopic symbionts are often
+    referred to as endosymbionts.
+Synonym: GO:0043298
+Synonym: GO:0044404
+Synonym: GO:0072519
+Synonym: GO:0085031
+Synonym: symbiosis
+Synonym: symbiosis, encompassing mutualism through parasitism
+Synonym: symbiotic interaction
+Synonym: symbiotic interaction between host and organism
+Synonym: symbiotic interaction between organisms
+Synonym: symbiotic interaction between species
+Synonym: symbiotic process
+Synonym: commensalism
+Synonym: host-pathogen interaction
+Synonym: parasitism
+Secondary: GO:0043298
+Secondary: GO:0044404
+Secondary: GO:0072519
+Secondary: GO:0085031
+--------------------------------------
+GOID: GO:0002360
+Term: T cell lineage commitment
+Ontology: BP
+Definition: The process in which a lymphoid progenitor cell becomes committed to becoming any type of T cell.
+Synonym: T lymphocyte lineage commitment
+Synonym: T-cell lineage commitment
+Synonym: T-lymphocyte lineage commitment
+--------------------------------------
+GOID: GO:0045069
+Term: regulation of viral genome replication
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of viral genome replication.
+--------------------------------------
+GOID: GO:0030101
+Term: natural killer cell activation
+Ontology: BP
+Definition: The change in morphology and behavior of a natural killer cell in response to a cytokine, chemokine,
+    cellular ligand, or soluble factor.
+Synonym: NK cell activation
+--------------------------------------
+GOID: GO:0097150
+Term: neuronal stem cell population maintenance
+Ontology: BP
+Definition: Any process in by an organism or tissue maintains a population of neuronal stem cells.
+--------------------------------------
+GOID: GO:0008033
+Term: tRNA processing
+Ontology: BP
+Definition: The process in which a pre-tRNA molecule is converted to a mature tRNA, ready for addition of an
+    aminoacyl group.
+Synonym: tRNA maturation
+--------------------------------------
+GOID: GO:0060402
+Term: calcium ion transport into cytosol
+Ontology: BP
+Definition: The directed movement of calcium ions (Ca2+) into the cytosol.
+--------------------------------------
+GOID: GO:0042045
+Term: epithelial fluid transport
+Ontology: BP
+Definition: The directed movement of fluid across epithelia.
+--------------------------------------
+GOID: GO:0141039
+Term: phosphatidylinositol 3-kinase inhibitor activity
+Ontology: MF
+Definition: NA
+--------------------------------------
+GOID: GO:0019083
+Term: viral transcription
+Ontology: BP
+Definition: The process by which a viral genome, or part of a viral genome, is transcribed within the host cell.
+--------------------------------------
+GOID: GO:0140101
+Term: catalytic activity, acting on a tRNA
+Ontology: MF
+Definition: NA
+--------------------------------------
+GOID: GO:0097278
+Term: complement-dependent cytotoxicity
+Ontology: BP
+Definition: Cell killing caused by the membrane attack complex formed following complement activation.
+--------------------------------------
+GOID: GO:1903909
+Term: regulation of receptor clustering
+Ontology: BP
+Definition: NA
+--------------------------------------
+GOID: GO:1902683
+Term: regulation of receptor localization to synapse
+Ontology: BP
+Definition: NA
+Synonym: regulation of receptor localisation to synapse
+--------------------------------------
+GOID: GO:0031664
+Term: regulation of lipopolysaccharide-mediated signaling pathway
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of signaling in response to detection of
+    lipopolysaccharide.
+Synonym: regulation of lipopolysaccharide-mediated signalling pathway
+Synonym: regulation of LPS-mediated signaling pathway
+--------------------------------------
+GOID: GO:0015085
+Term: calcium ion transmembrane transporter activity
+Ontology: MF
+Definition: Enables the transfer of calcium (Ca) ions from one side of a membrane to the other.
+--------------------------------------
+GOID: GO:0097228
+Term: sperm principal piece
+Ontology: CC
+Definition: The segment of the sperm flagellum where the mitochondrial sheath ends, and the outer dense fibers (ODFs)
+    associated with outer axonemal doublets 3 and 8 are replaced by the 2 longitudinal columns of the fibrous sheath
+    (FS) which run the length of the principal piece and are stabilized by circumferential ribs. The principal piece
+    makes up ~2/3 of the length of the sperm flagellum and is defined by the presence of the FS and of only 7 (rather
+    than 9) ODFs which taper and then terminate near the distal end of the principal piece.
+--------------------------------------
+GOID: GO:1902555
+Term: endoribonuclease complex
+Ontology: CC
+Definition: NA
+--------------------------------------
+GOID: GO:0098742
+Term: cell-cell adhesion via plasma-membrane adhesion molecules
+Ontology: BP
+Definition: The attachment of one cell to another cell via adhesion molecules that are at least partially embedded in
+    the plasma membrane.
+--------------------------------------
+GOID: GO:0060229
+Term: lipase activator activity
+Ontology: MF
+Definition: Binds to and increases the activity of a lipase, an enzyme that catalyzes of the hydrolysis of a lipid.
+--------------------------------------
+GOID: GO:0004521
+Term: RNA endonuclease activity
+Ontology: MF
+Definition: Catalysis of the cleavage of ester linkages within ribonucleic acid by creating internal breaks.
+Synonym: endoribonuclease activity
+Synonym: endonuclease G activity
+--------------------------------------
+GOID: GO:0017169
+Term: CDP-alcohol phosphatidyltransferase activity
+Ontology: MF
+Definition: Catalysis of the reaction: CDP + alcohol = CMP + phosphatidyl alcohol.
+--------------------------------------
+GOID: GO:0034634
+Term: glutathione transmembrane transporter activity
+Ontology: MF
+Definition: Enables the transfer of glutathione, the tripeptide glutamylcysteinylglycine, from one side of a membrane
+    to the other.
+--------------------------------------
+GOID: GO:0035821
+Term: modulation of process of another organism
+Ontology: BP
+Definition: A process in which an organism effects a change in a biological process in another organism.
+Synonym: modification of morphology or physiology of other organism
+Synonym: modulation of process of other organism
+Synonym: regulation of morphology or physiology of other organism
+Synonym: regulation of morphology of other organism
+Synonym: regulation of physiological process of other organism
+Synonym: regulation of physiology of other organism
+--------------------------------------
+GOID: GO:1905684
+Term: regulation of plasma membrane repair
+Ontology: BP
+Definition: NA
+--------------------------------------
+GOID: GO:0032469
+Term: endoplasmic reticulum calcium ion homeostasis
+Ontology: BP
+Definition: Any process involved in the maintenance of an internal steady state of calcium ions within the
+    endoplasmic reticulum of a cell or between the endoplasmic reticulum and its surroundings.
+Synonym: calcium ion homeostasis in endoplasmic reticulum
+Synonym: calcium ion homeostasis in ER
+Synonym: endoplasmic reticulum calcium ion concentration regulation
+Synonym: ER calcium ion concentration regulation
+Synonym: ER calcium ion homeostasis
+Synonym: regulation of calcium ion concentration in endoplasmic reticulum
+Synonym: regulation of calcium ion concentration in ER
+Synonym: regulation of endoplasmic reticulum calcium ion concentration
+Synonym: regulation of ER calcium ion concentration
+--------------------------------------
+GOID: GO:0016004
+Term: phospholipase activator activity
+Ontology: MF
+Definition: Binds to and increases the activity of a phospholipase, an enzyme that catalyzes of the hydrolysis of a
+    glycerophospholipid.
+--------------------------------------
+GOID: GO:0000394
+Term: RNA splicing, via endonucleolytic cleavage and ligation
+Ontology: BP
+Definition: Splicing of RNA via recognition of the folded RNA structure that brings the 5' and 3' splice sites into
+    proximity and cleavage of the RNA at both the 3' and 5' splice sites by an endonucleolytic mechanism, followed by
+    ligation of the exons.
+Synonym: mRNA splicing
+--------------------------------------
+GOID: GO:0042093
+Term: T-helper cell differentiation
+Ontology: BP
+Definition: The process in which a relatively unspecialized thymocyte acquires specialized features of a T-helper
+    cell.
+Synonym: helper T cell differentiation
+Synonym: T-helper cell development
+--------------------------------------
+GOID: GO:0005911
+Term: cell-cell junction
+Ontology: CC
+Definition: A cell junction that forms a connection between two or more cells of an organism; excludes direct
+    cytoplasmic intercellular bridges, such as ring canals in insects.
+Synonym: intercellular junction
+Synonym: cell-cell contact region
+Synonym: cell-cell contact zone
+--------------------------------------
+GOID: GO:0005326
+Term: neurotransmitter transmembrane transporter activity
+Ontology: MF
+Definition: Enables the directed movement of a neurotransmitter into, out of or within a cell, or between cells.
+    Neurotransmitters are any chemical substance that is capable of transmitting (or inhibiting the transmission of)
+    a nerve impulse from a neuron to another cell.
+Synonym: neurotransmitter transporter activity
+--------------------------------------
