@@ -180,17 +180,17 @@ Voor het maken van deze GitHub-pagina is geen gebruik gemaakt van AI-hulpmiddele
 
 <a id="org5c9c4ce"></a> Ciechomska, M., Oldak, M., & Massalska, M. (2026). Transcriptomics and AI-driven approaches to the diagnosis and treatment of rheumatoid arthritis. *Frontiers in Immunology*, 17. <https://doi.org/10.3389/fimmu.2026.1812290>
 
-<a id="org5fa2a31"></a> Liao, Y., Smyth, G. K., & Shi, W. (2019). The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads. Nucleic Acids Research, 47(8), e47. <https://doi.org/10.1093/nar/gkz114>
+<a id="org5fa2a31"></a> Liao, Y., Smyth, G. K., & Shi, W. (2019). The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads. *Nucleic Acids Research*, 47(8), e47. <https://doi.org/10.1093/nar/gkz114>
 
-<a id="org4842ea5"></a> Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15(12), 550. <https://doi.org/10.1186/s13059-014-0550-8>
+<a id="org4842ea5"></a> Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology*, 15(12), 550. <https://doi.org/10.1186/s13059-014-0550-8>
 
-<a id="org6db31d6"></a> Luo, W., & Brouwer, C. (2013). Pathview: An R/Bioconductor package for pathway-based data integration and visualization. Bioinformatics, 29(14), 1830-1831. <https://doi.org/10.1093/bioinformatics/btt285>
+<a id="org6db31d6"></a> Luo, W., & Brouwer, C. (2013). Pathview: An R/Bioconductor package for pathway-based data integration and visualization. *Bioinformatics*, 29(14), 1830-1831. <https://doi.org/10.1093/bioinformatics/btt285>
 
 <a id="orgb2cf74a"></a> Malmström, V., Catrina, A. I., & Klareskog, L. (2017). The immunopathogenesis of seropositive rheumatoid arthritis: From triggering to targeting. *Nature Reviews Immunology*, 17(1), 60-75. <https://doi.org/10.1038/nri.2016.124>
 
 <a id="orgc6f7071"></a> Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., & Aletaha, D. (2019). Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns. *PLOS ONE*, 14(7), e0219698. <https://doi.org/10.1371/journal.pone.0219698>
 
-<a id="orge88bb19"></a> Rainer, J., Gatto, L., & Weichenberger, C. X. (2019). ensembldb: An R package to create and use Ensembl-based annotation resources. Bioinformatics, 35(17), 3151-3153. <https://doi.org/10.1093/bioinformatics/btz031>
+<a id="orge88bb19"></a> Rainer, J., Gatto, L., & Weichenberger, C. X. (2019). ensembldb: An R package to create and use Ensembl-based annotation resources. *Bioinformatics*, 35(17), 3151-3153. <https://doi.org/10.1093/bioinformatics/btz031>
 
 <a id="orgb6954e7"></a> Rainer, J. (2026). Ensembl based annotation package. <https://doi.org/10.18129/B9.bioc.EnsDb.Hsapiens.v79>
 
@@ -202,5 +202,5 @@ Voor het maken van deze GitHub-pagina is geen gebruik gemaakt van AI-hulpmiddele
 
 <a id="org4ca1cd5"></a> Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. *Springer-Verlag New York, 2016.* <https://ggplot2.tidyverse.org>
 
-<a id="org13b7d08"></a> Young, M. D., Wakefield, M. J., Smyth, G. K., & Oshlack, A. (2010). Gene ontology analysis for RNA-seq: Accounting for selection bias. Genome Biology, 11(2), R14. <https://doi.org/10.1186/gb-2010-11-2-r14>
+<a id="org13b7d08"></a> Young, M. D., Wakefield, M. J., Smyth, G. K., & Oshlack, A. (2010). Gene ontology analysis for RNA-seq: Accounting for selection bias. *Genome Biology*, 11(2), R14. <https://doi.org/10.1186/gb-2010-11-2-r14>
 
