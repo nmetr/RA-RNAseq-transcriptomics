@@ -137,9 +137,9 @@ Alleen kijkend naar de resultaten met p < 0.05, was de hoogste fold change 11.4,
 
 Veel van de coderende sequenties in de KEGG pathway voor rheumatoïde artritis ([hsa05323](https://www.kegg.jp/pathway/hsa05323)) zien verhoogde transcriptie bij RA-patiënten. Hieruit kan opgemaakt worden dat ontstekingen, pannusformatie (agressieve groei in de slijmvliesbekleding van de gewrichtsholten), en gewrichtsbeschadiging bij deze individuen verhoogd zijn ([figuur 3](#org55df3df)).
 
-<a id="org55df3df"></a> **Figuur 3: Analyse met KEGG pathway *Rheumatoid arthritis***
+<a id="org55df3df"></a>
 ![img](figures/KEGGpathway_hsa05323_Pathview.png)
-*De berekende Log2FoldChange-waarden, gecombineerd met de KEGG pathway hsa05323 (Rheumatoid arthritis — Human), met het bereik ingesteld op Log2FoldChange: -5 tot 5. Rode vakken tonen positieve correlatie met de genen aan.*
+**Figuur 3: Analyse met KEGG pathway *Rheumatoid arthritis*.** *De berekende Log2FoldChange-waarden, gecombineerd met de KEGG pathway hsa05323 (Rheumatoid arthritis — Human), met het bereik ingesteld op Log2FoldChange: -5 tot 5. Rode vakken tonen positieve correlatie met de genen aan.*
 
 
 <a id="org7b5ece4"></a>
