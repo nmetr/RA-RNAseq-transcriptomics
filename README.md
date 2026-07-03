@@ -17,7 +17,8 @@
 5.  [Conclusie](#orgb7d612a)
 6.  [AI-verklaring](#org29d6c53)
 7.  [Referenties](#org310c8df)
-
+8.  [Data stewardship](#ds)
+9.  [Github-pagina](#gh)
 
 <a id="org538ecd8"></a>
 
@@ -202,3 +203,30 @@ Voor het maken van deze GitHub-pagina is geen gebruik gemaakt van AI-hulpmiddele
 
 <a id="org13b7d08"></a> Young, M. D., Wakefield, M. J., Smyth, G. K., & Oshlack, A. (2010). Gene ontology analysis for RNA-seq: Accounting for selection bias. *Genome Biology*, 11(2), R14. <https://doi.org/10.1186/gb-2010-11-2-r14>
 
+
+<a id="ds"></a>
+
+# Data stewardship
+
+Data stewardship is een belangrijk deel in het onderzoeksproces, zeker als het aankomt op veiligheid, transparantie, en samenwerking. Data op een gecontroleerde manier ordenen maakt het mogelijk voor grotere groepen om te werken met de data, in plaats van maar één individu die slechte organisatie heeft maar weet waar de dingen zijn die hij/zij nodig heeft. Ook is het belangrijk dat privégegevens niet verder strekken dan de bedoeling is; hiervoor is het ook cruciaal om een systematische aanpak te hanteren.
+
+Een ideale mappenstructuur zorgt ervoor dat gebruikers in één oogopslag een goed idee hebben van waar ze data en code kunnen vinden. Beschrijvende namen (van zowel folders als bestanden) zijn hier belangrijk voor. Bij gecompliceerde datasets kan het hierbovenop handig zijn om een clarificatie van de organisatie toe te voegen aan documentatie, die makkelijk te vinden is (bijvoorbeeld door toevoeging van een README-bestand aan de hoofdfolder.) Eén van de belangrijkste aspecten van goede naamgeving is consistentie; als er bijvoorbeeld dezelfde dataverwerking op meerdere bestanden wordt uitgevoerd, waarmee een bijbehorende nieuwe set bestanden gegenereerd wordt, is het een goed idee om dezelfde methode van naamgeving te gebruiken. Dan is het duidelijk welke bestanden (van voor + na verwerking) bij elkaar horen, en ook dat de bestanden (die een map en een naamstructuur delen) waarschijnlijk overeenkomen.
+
+Versiebeheer ('Version control, VC') is het bijhouden van veranderingen aan bestanden naar verloop van tijd. De meestgebruikte VC-software is Git. Hier worden aanpassingen gebundeld in 'commits', waarbij de individuele veranderingen (bijvoorbeeld elk stuk tekst dat toegevoegd/verwijderd is) per commit te zien zijn. Dit is waardevol voor het vinden van de auteur, datum, en versie behorend bij een stuk code van interesse, en voor het bekijken van de verschillen tussen releases. Verder geeft versiebeheer een mogelijkheid op het gebied van samenwerking: verschillende auteurs kunnen op verschillende momenten aan hetzelfde project werken, en toevoegingen kunnen voor samenvoeging met de hoofdbranch gecontroleerd worden.
+
+Goede documentatie van scripts gebeurt op verschillende plekken: Als eerste in het bestand zelf. Door een logische volgorde en structuur van code, en door het toevoegen van comments die onderdelen ordenen of verklaren, zijn scripts een stuk beter te lezen en te begrijpen voor nieuwe bijdragers. Hierna zijn een beschrijvende bestandsnaam en een passende folder belangrijk. Verder kan externe beschrijving van / referentie naar het script mensen wijzen op wat het bestand inhoudt, en waar ze het kunnen vinden.
+
+Het meestgebruikte online platform voor het delen van code is GitHub, maar alternatieven met vergelijkbare functionaliteit worden steeds populairder (onder andere gezien GitHub bij Microsoft hoort). Veel open-source projecten gebruiken zulke platforms, wat het toegankelijk maakt, en contributie (zoals issues en pull requests) van gebruikers mogelijk maakt. Openbare datasets zijn belangrijk voor transparantie omtrent de reproduceerbaarheid van onderzoek. Zo kan men controleren of de gegeven resultaten daadwerkelijk te verkrijgen zijn uit de toegeleverde data en werkwijze, en kunnen fraudulente publicaties geïdentificeerd worden.
+
+
+<a id="gh"></a>
+
+# GitHub-pagina
+
+Versiecontrole is voor dit onderzoek gedaan met behulp van Git; als interface is [Magit](https://magit.vc/) gebruikt. De typische structuur van een wetenschappelijk onderzoek (van inleiding tot conclusie) is gebruikt voor de communicatie van de methode en resultaten van het onderzoek. Alle gebruikte data (van referentiegenoom tot fastq-bestanden) is toegankelijk, met enkele tussenstappen zoals de count matrix en de onverwerkte gene-ontology resultaten ook geleverd, voor gebruiksvriendelijkheid. Alle gebruikte code is ook geleverd, en hiermee is dit onderzoek volledig reproduceerbaar. De R-code is georganiseerd als twee losse scripts, zodat men makkelijk gelijk aan de slag kan gaan met de inbegrepen voltooide count matrix, zodra de methode van generatie hiervoor is gecontroleerd.
+
+Veel methoden zijn gebruikt om het project overzichtelijk te maken; het meeste hiervan is terug te vinden in de README. Als eerste is een beschrijvende titel toegevoegd om meer duidelijkheid te geven over de daadwerkelijke inhoud van het project (de beschrijving van de GitHub-pagina zelf is algemener). Hoewel GitHub uit zichzelf een optionele inhoudsopgave genereert uit Markdown-bestanden, helpt de toevoeging van een inhoudsopgave aan het bestand zelf om de structuur van de README aan te geven. Dit zorgt er ook voor dat er toegang blijft tot een inhoudsopgave, zelfs als de repository op een ander platform dan GitHub wordt beheerd. Ook is aan het begin een kopje 'Inhoud/structuur' toegevoegd, waarin de inhoud van de folders en de belangrijkste bestanden kort beschreven wordt, zodat de lezer gelijk een idee heeft waar alles te vinden is.
+
+Ook een *flowchart* is opgesteld, om de werkwijze in één oogopslag te verhelderen. De verwerkingsmethoden zijn hierin ook in een lijst verwerkt, zodat men gelijk weet waar de data daadwerkelijk voor gebruikt is. Omdat Markdown codeblokken toestaat, was het mogelijk om de flowchart te maken uit plaintext, met behulp van [Uniline](https://github.com/tbanel/uniline). Verder is gebruik gemaakt van Markdown-functionaliteit om te verwijzen naar hoofdstukken, bestanden, locaties, en URLs binnen het bestand zelf. De hoofdstukverwijzing is gebruikt voor het maken van een interactieve inhoudsopgave, de bestandsverwijzing is gebruikt om naar relevante bestanden te linken in de werkwijze, en de locatieverwijzing is gebruikt voor het maken van in-tekst citaten die naar de bijbehorende artikelen in de referenties leiden.
+
+Ook is er naar webpagina's verwezen voor externe materialen, zoals bijvoorbeeld het [referentiegenoom](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/). Hoewel het in principe mogelijk geweest zou zijn om de grote bestanden (zoals de gecreëerde alignments) in de repository te hebben, zou het de gebruiksvriendelijkheid verminderen, gezien de volledige dataset >20GB bedraagt. Het is van belang dat de repository weinig opslagruimte inneemt; ten eerste omdat gebruikers de inhoud naar hun eigen apparaat moeten 'pull'en willen ze er aan kunen werken, ten tweede omdat GitHub zelf ook [limieten](https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits) heeft van hoeveel ruimte één repository in mag nemen. Het volledige project neemt meer dan >20GB in, dus er moest gekozen worden welke data essentiëel is voor de reproduceerbaarheid, en welke data door toekomstige gebruikers zelf weer gecreëerd kan worden. Bovenop het complete minimum is wel een selectie van extra verwerkingsbestanden toegevoegd, om het makkelijker te maken om aan de slag te gaan met de gegeven code.
