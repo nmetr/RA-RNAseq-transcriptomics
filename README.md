@@ -54,8 +54,6 @@ In dit onderzoek wordt RNA-sequencing data van individuen met/zonder rheumatoïd
 
 ## Flowchart
 
-**Figuur 1: Flowchart van onderzoeksmethode**
-
     ╭────────────────╮               ╭────────────────╮
     │Referentiegenoom│               │  Geïndexeerd   │
     │  (GRCh38.p14)  ├──╴Indexeren╶─→│referentiegenoom│
@@ -72,7 +70,7 @@ In dit onderzoek wordt RNA-sequencing data van individuen met/zonder rheumatoïd
                                         Statistische
                                        analyse (DESeq)
 
-*Flowchart die het proces voor het verkrijgen van bruikbare data weergeeft, en ook de verwerkingsmethoden die op deze data zijn uitgevoerd.*
+**Figuur 1: Flowchart van onderzoeksmethode.** *Flowchart die het proces voor het verkrijgen van bruikbare data weergeeft, en ook de verwerkingsmethoden die op deze data zijn uitgevoerd.*
 
 
 <a id="org774dee3"></a>
@@ -126,10 +124,10 @@ Uit de `DESeq`-analyse kwamen 5103 genen met een statistisch significant verschi
 
 Alleen kijkend naar de resultaten met p < 0.05, was de hoogste fold change 11.4, bij het gen IGHV3-53. De laagste fold change was -12.8, bij het gen MXRA7P1. (Zie [DESeq\_results.csv](results/DESeq_results.csv) voor alle waarden.) In de onderstaande volcano plot ([figuur 2](#org59a4b2f)) zijn de resultaten visueel weergegeven:
 
-<a id="org59a4b2f"></a> **Figuur 2: Volcano plot rheumatoïde artritis**
+<a id="org59a4b2f"></a>
 
 ![img](figures/Volcano_plot.png)
-*Volcano plot gebaseerd op drempelwaarden van p < 0.05 en |Log2FoldChange| > 1. De grafiek loopt van Log2FoldChange -14 tot 14, gezien er geen waarden buiten deze grenzen vielen.*
+ **Figuur 2: Volcano plot rheumatoïde artritis.** *Volcano plot gebaseerd op drempelwaarden van p < 0.05 en |Log2FoldChange| > 1. De grafiek loopt van Log2FoldChange -14 tot 14, gezien er geen waarden buiten deze grenzen vielen.*
 
 
 <a id="org9182e8f"></a>
@@ -149,9 +147,9 @@ Veel van de coderende sequenties in de KEGG pathway voor rheumatoïde artritis (
 
 Uit de data zijn 21429 enriched GO-terms verkregen, waarvan 83 er een *over-represented p-value* van < 0.01 hadden. Deze 83 GO-terms zijn te vinden in het [gene\_ontology\_result.txt](results/gene_ontology_result.txt) bestand. Van de 83 GO-terms, beschreven er 50 biologische processen. Deze zijn gebruikt om een grafiek op te stellen. In de grafiek is te zien dat de meest significante *over-represented p-values* betrekking hadden tot ontsteking en virale processen ([figuur 4](#org98d7020)).  
 
-<a id="org98d7020"></a> **Figuur 4: Biologische processen (GO-terms) en overrepresentatie**
+<a id="org98d7020"></a>
 ![img](figures/GO_plot.png)
-*Op de x-as is het 'gene-ratio' te zien. Dit zijn de genen met differentiële expressie, gedeeld door het totaal aantal genen in de categorie. Op de y-as zijn deze 'categorieën' te zien; GO-terms die allen een ander biologisch proces beschrijven. De puntgrootte wordt bepaald door de -log10 van de 'over-represented p-value'; bij grotere waarden is de kans op toeval wat betreft de overrepresentatie kleiner.*
+**Figuur 4: Biologische processen (GO-terms) en overrepresentatie.** *Op de x-as is het 'gene-ratio' te zien. Dit zijn de genen met differentiële expressie, gedeeld door het totaal aantal genen in de categorie. Op de y-as zijn deze 'categorieën' te zien; GO-terms die allen een ander biologisch proces beschrijven. De puntgrootte wordt bepaald door de -log10 van de 'over-represented p-value'; bij grotere waarden is de kans op toeval wat betreft de overrepresentatie kleiner.*
 
 
 <a id="orgb7d612a"></a>
